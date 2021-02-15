@@ -1,0 +1,46 @@
+h1{
+  text-align: center;
+}
+
+div.gall img{
+  width: 100%;
+  height: auto;
+}
+
+div.sale{
+  padding: 15px;
+  text-align: center;
+  display: inline;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+h2{
+  text-align: center;
+}
+
+.gall{
+  width: 30%;
+}
+
+.sale{
+
+}
+
+table{
+  font-family: arial, serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th{
+  border: 1px solid;
+  text-align: left;
+  padding: 5px;
+}
+
+div.gall{
+  border: 1px solid #ccc;
+}
